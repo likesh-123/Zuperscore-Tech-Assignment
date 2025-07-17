@@ -10,4 +10,8 @@ const router = Router();
 router.post("/api/v1/registerUser", asyncHandler(registerUserService));
 router.post("/api/v1/login", asyncHandler(loginUserService));
 
+router.use(asyncHandler(authenticateToken));
+
+router.use("/api/v1/user", userRouter);
+
 export default router;
