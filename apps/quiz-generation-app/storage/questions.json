@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "q1",
+    "text": "What is 2 + 2?",
+    "options": [
+      { "id": "a", "text": "3" },
+      { "id": "b", "text": "4" },
+      { "id": "c", "text": "5" },
+      { "id": "d", "text": "6" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q2",
+    "text": "What is the capital of France?",
+    "options": [
+      { "id": "a", "text": "Berlin" },
+      { "id": "b", "text": "Paris" },
+      { "id": "c", "text": "London" },
+      { "id": "d", "text": "Madrid" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-europe",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q3",
+    "text": "What is 5 * 3?",
+    "options": [
+      { "id": "a", "text": "12" },
+      { "id": "b", "text": "15" },
+      { "id": "c", "text": "18" },
+      { "id": "d", "text": "20" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q4",
+    "text": "Which planet is closest to the Sun?",
+    "options": [
+      { "id": "a", "text": "Venus" },
+      { "id": "b", "text": "Mercury" },
+      { "id": "c", "text": "Earth" },
+      { "id": "d", "text": "Mars" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-astronomy",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q5",
+    "text": "What is the largest ocean on Earth?",
+    "options": [
+      { "id": "a", "text": "Atlantic Ocean" },
+      { "id": "b", "text": "Pacific Ocean" },
+      { "id": "c", "text": "Indian Ocean" },
+      { "id": "d", "text": "Arctic Ocean" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-oceans",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q6",
+    "text": "What is 10 - 4?",
+    "options": [
+      { "id": "a", "text": "5" },
+      { "id": "b", "text": "6" },
+      { "id": "c", "text": "7" },
+      { "id": "d", "text": "8" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q7",
+    "text": "Which programming language is known for web development?",
+    "options": [
+      { "id": "a", "text": "Python" },
+      { "id": "b", "text": "JavaScript" },
+      { "id": "c", "text": "C++" },
+      { "id": "d", "text": "Assembly" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q8",
+    "text": "What is the capital of Italy?",
+    "options": [
+      { "id": "a", "text": "Milan" },
+      { "id": "b", "text": "Rome" },
+      { "id": "c", "text": "Naples" },
+      { "id": "d", "text": "Venice" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-europe",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q9",
+    "text": "What is 12 / 3?",
+    "options": [
+      { "id": "a", "text": "3" },
+      { "id": "b", "text": "4" },
+      { "id": "c", "text": "5" },
+      { "id": "d", "text": "6" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q10",
+    "text": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      { "id": "a", "text": "Oxygen" },
+      { "id": "b", "text": "Carbon Dioxide" },
+      { "id": "c", "text": "Nitrogen" },
+      { "id": "d", "text": "Hydrogen" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q11",
+    "text": "What is the square root of 16?",
+    "options": [
+      { "id": "a", "text": "3" },
+      { "id": "b", "text": "4" },
+      { "id": "c", "text": "5" },
+      { "id": "d", "text": "6" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q12",
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      { "id": "a", "text": "Charles Dickens" },
+      { "id": "b", "text": "William Shakespeare" },
+      { "id": "c", "text": "Jane Austen" },
+      { "id": "d", "text": "Mark Twain" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "literature-classics",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q13",
+    "text": "What is 7 * 8?",
+    "options": [
+      { "id": "a", "text": "54" },
+      { "id": "b", "text": "56" },
+      { "id": "c", "text": "58" },
+      { "id": "d", "text": "60" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q14",
+    "text": "Which continent is known as the 'Dark Continent'?",
+    "options": [
+      { "id": "a", "text": "Asia" },
+      { "id": "b", "text": "Africa" },
+      { "id": "c", "text": "South America" },
+      { "id": "d", "text": "Australia" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-continents",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q15",
+    "text": "What is the chemical symbol for gold?",
+    "options": [
+      { "id": "a", "text": "Go" },
+      { "id": "b", "text": "Au" },
+      { "id": "c", "text": "Ag" },
+      { "id": "d", "text": "Gd" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-chemistry",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q16",
+    "text": "What is 15 + 27?",
+    "options": [
+      { "id": "a", "text": "40" },
+      { "id": "b", "text": "42" },
+      { "id": "c", "text": "44" },
+      { "id": "d", "text": "46" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q17",
+    "text": "Which year did World War II end?",
+    "options": [
+      { "id": "a", "text": "1944" },
+      { "id": "b", "text": "1945" },
+      { "id": "c", "text": "1946" },
+      { "id": "d", "text": "1947" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "history-modern",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q18",
+    "text": "What is the largest mammal in the world?",
+    "options": [
+      { "id": "a", "text": "Elephant" },
+      { "id": "b", "text": "Blue Whale" },
+      { "id": "c", "text": "Giraffe" },
+      { "id": "d", "text": "Hippopotamus" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q19",
+    "text": "What is 100 - 37?",
+    "options": [
+      { "id": "a", "text": "61" },
+      { "id": "b", "text": "63" },
+      { "id": "c", "text": "65" },
+      { "id": "d", "text": "67" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q20",
+    "text": "Which programming paradigm does JavaScript primarily support?",
+    "options": [
+      { "id": "a", "text": "Functional only" },
+      { "id": "b", "text": "Multi-paradigm" },
+      { "id": "c", "text": "Object-oriented only" },
+      { "id": "d", "text": "Procedural only" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-concepts",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q21",
+    "text": "What is the capital of Japan?",
+    "options": [
+      { "id": "a", "text": "Osaka" },
+      { "id": "b", "text": "Tokyo" },
+      { "id": "c", "text": "Kyoto" },
+      { "id": "d", "text": "Hiroshima" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-asia",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q22",
+    "text": "What is 9²?",
+    "options": [
+      { "id": "a", "text": "72" },
+      { "id": "b", "text": "81" },
+      { "id": "c", "text": "90" },
+      { "id": "d", "text": "99" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q23",
+    "text": "Which element has the chemical symbol 'O'?",
+    "options": [
+      { "id": "a", "text": "Osmium" },
+      { "id": "b", "text": "Oxygen" },
+      { "id": "c", "text": "Oganesson" },
+      { "id": "d", "text": "Olivine" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-chemistry",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q24",
+    "text": "What is the longest river in the world?",
+    "options": [
+      { "id": "a", "text": "Amazon River" },
+      { "id": "b", "text": "Nile River" },
+      { "id": "c", "text": "Mississippi River" },
+      { "id": "d", "text": "Yangtze River" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-rivers",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q25",
+    "text": "What is 144 / 12?",
+    "options": [
+      { "id": "a", "text": "11" },
+      { "id": "b", "text": "12" },
+      { "id": "c", "text": "13" },
+      { "id": "d", "text": "14" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q26",
+    "text": "Who painted the Mona Lisa?",
+    "options": [
+      { "id": "a", "text": "Michelangelo" },
+      { "id": "b", "text": "Leonardo da Vinci" },
+      { "id": "c", "text": "Pablo Picasso" },
+      { "id": "d", "text": "Vincent van Gogh" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "art-renaissance",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q27",
+    "text": "What is the speed of light in vacuum?",
+    "options": [
+      { "id": "a", "text": "299,792,458 m/s" },
+      { "id": "b", "text": "299,792,458 m/s" },
+      { "id": "c", "text": "300,000,000 m/s" },
+      { "id": "d", "text": "299,800,000 m/s" }
+    ],
+    "correctOptionId": "a",
+    "learningObjectiveId": "science-physics",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q28",
+    "text": "What is 6 * 7?",
+    "options": [
+      { "id": "a", "text": "40" },
+      { "id": "b", "text": "42" },
+      { "id": "c", "text": "44" },
+      { "id": "d", "text": "46" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q29",
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      { "id": "a", "text": "China" },
+      { "id": "b", "text": "Japan" },
+      { "id": "c", "text": "Korea" },
+      { "id": "d", "text": "Thailand" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-asia",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q30",
+    "text": "What is the cube root of 27?",
+    "options": [
+      { "id": "a", "text": "2" },
+      { "id": "b", "text": "3" },
+      { "id": "c", "text": "4" },
+      { "id": "d", "text": "5" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q31",
+    "text": "Which organ in the human body produces insulin?",
+    "options": [
+      { "id": "a", "text": "Liver" },
+      { "id": "b", "text": "Pancreas" },
+      { "id": "c", "text": "Kidney" },
+      { "id": "d", "text": "Heart" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q32",
+    "text": "What is 8 + 15?",
+    "options": [
+      { "id": "a", "text": "21" },
+      { "id": "b", "text": "23" },
+      { "id": "c", "text": "25" },
+      { "id": "d", "text": "27" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q33",
+    "text": "What does HTML stand for?",
+    "options": [
+      { "id": "a", "text": "High Tech Modern Language" },
+      { "id": "b", "text": "HyperText Markup Language" },
+      { "id": "c", "text": "Home Tool Markup Language" },
+      { "id": "d", "text": "Hyperlink and Text Markup Language" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q34",
+    "text": "What is the capital of Australia?",
+    "options": [
+      { "id": "a", "text": "Sydney" },
+      { "id": "b", "text": "Canberra" },
+      { "id": "c", "text": "Melbourne" },
+      { "id": "d", "text": "Brisbane" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-oceania",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q35",
+    "text": "What is 25% of 80?",
+    "options": [
+      { "id": "a", "text": "15" },
+      { "id": "b", "text": "20" },
+      { "id": "c", "text": "25" },
+      { "id": "d", "text": "30" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q36",
+    "text": "Who wrote '1984'?",
+    "options": [
+      { "id": "a", "text": "Aldous Huxley" },
+      { "id": "b", "text": "George Orwell" },
+      { "id": "c", "text": "Ray Bradbury" },
+      { "id": "d", "text": "Isaac Asimov" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "literature-modern",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q37",
+    "text": "What is 11 * 11?",
+    "options": [
+      { "id": "a", "text": "111" },
+      { "id": "b", "text": "121" },
+      { "id": "c", "text": "131" },
+      { "id": "d", "text": "141" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q38",
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      { "id": "a", "text": "Venus" },
+      { "id": "b", "text": "Mars" },
+      { "id": "c", "text": "Jupiter" },
+      { "id": "d", "text": "Saturn" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-astronomy",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q39",
+    "text": "What is 200 / 25?",
+    "options": [
+      { "id": "a", "text": "6" },
+      { "id": "b", "text": "8" },
+      { "id": "c", "text": "10" },
+      { "id": "d", "text": "12" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q40",
+    "text": "What does CSS stand for?",
+    "options": [
+      { "id": "a", "text": "Computer Style Sheets" },
+      { "id": "b", "text": "Cascading Style Sheets" },
+      { "id": "c", "text": "Creative Style Sheets" },
+      { "id": "d", "text": "Colorful Style Sheets" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q41",
+    "text": "What is the smallest prime number?",
+    "options": [
+      { "id": "a", "text": "1" },
+      { "id": "b", "text": "2" },
+      { "id": "c", "text": "3" },
+      { "id": "d", "text": "5" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q42",
+    "text": "Which scientist developed the theory of relativity?",
+    "options": [
+      { "id": "a", "text": "Isaac Newton" },
+      { "id": "b", "text": "Albert Einstein" },
+      { "id": "c", "text": "Galileo Galilei" },
+      { "id": "d", "text": "Stephen Hawking" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-physics",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q43",
+    "text": "What is 13 + 29?",
+    "options": [
+      { "id": "a", "text": "40" },
+      { "id": "b", "text": "42" },
+      { "id": "c", "text": "44" },
+      { "id": "d", "text": "46" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q44",
+    "text": "What is the capital of Canada?",
+    "options": [
+      { "id": "a", "text": "Toronto" },
+      { "id": "b", "text": "Ottawa" },
+      { "id": "c", "text": "Vancouver" },
+      { "id": "d", "text": "Montreal" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-north-america",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q45",
+    "text": "What is the square of 7?",
+    "options": [
+      { "id": "a", "text": "42" },
+      { "id": "b", "text": "49" },
+      { "id": "c", "text": "56" },
+      { "id": "d", "text": "63" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q46",
+    "text": "Which programming language is known for data science?",
+    "options": [
+      { "id": "a", "text": "JavaScript" },
+      { "id": "b", "text": "Python" },
+      { "id": "c", "text": "C#" },
+      { "id": "d", "text": "PHP" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-data-science",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q47",
+    "text": "What is 18 * 6?",
+    "options": [
+      { "id": "a", "text": "104" },
+      { "id": "b", "text": "108" },
+      { "id": "c", "text": "112" },
+      { "id": "d", "text": "116" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q48",
+    "text": "Which ocean is between Europe and America?",
+    "options": [
+      { "id": "a", "text": "Pacific Ocean" },
+      { "id": "b", "text": "Atlantic Ocean" },
+      { "id": "c", "text": "Indian Ocean" },
+      { "id": "d", "text": "Arctic Ocean" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-oceans",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q49",
+    "text": "What is 75% of 200?",
+    "options": [
+      { "id": "a", "text": "140" },
+      { "id": "b", "text": "150" },
+      { "id": "c", "text": "160" },
+      { "id": "d", "text": "170" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q50",
+    "text": "What is the process by which plants make their food?",
+    "options": [
+      { "id": "a", "text": "Respiration" },
+      { "id": "b", "text": "Photosynthesis" },
+      { "id": "c", "text": "Transpiration" },
+      { "id": "d", "text": "Digestion" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q51",
+    "text": "What is the derivative of x²?",
+    "options": [
+      { "id": "a", "text": "x" },
+      { "id": "b", "text": "2x" },
+      { "id": "c", "text": "x²" },
+      { "id": "d", "text": "2x²" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-calculus",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q52",
+    "text": "What is 14 - 8?",
+    "options": [
+      { "id": "a", "text": "5" },
+      { "id": "b", "text": "6" },
+      { "id": "c", "text": "7" },
+      { "id": "d", "text": "8" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q53",
+    "text": "Which company developed the iPhone?",
+    "options": [
+      { "id": "a", "text": "Samsung" },
+      { "id": "b", "text": "Apple" },
+      { "id": "c", "text": "Google" },
+      { "id": "d", "text": "Microsoft" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "technology-mobile",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q54",
+    "text": "What is the capital of Brazil?",
+    "options": [
+      { "id": "a", "text": "São Paulo" },
+      { "id": "b", "text": "Brasília" },
+      { "id": "c", "text": "Rio de Janeiro" },
+      { "id": "d", "text": "Salvador" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-south-america",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q55",
+    "text": "What is 9 + 16?",
+    "options": [
+      { "id": "a", "text": "23" },
+      { "id": "b", "text": "25" },
+      { "id": "c", "text": "27" },
+      { "id": "d", "text": "29" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q56",
+    "text": "What does API stand for in programming?",
+    "options": [
+      { "id": "a", "text": "Advanced Programming Interface" },
+      { "id": "b", "text": "Application Programming Interface" },
+      { "id": "c", "text": "Automated Programming Interface" },
+      { "id": "d", "text": "Applied Programming Interface" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-concepts",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q57",
+    "text": "What is 15 * 4?",
+    "options": [
+      { "id": "a", "text": "56" },
+      { "id": "b", "text": "60" },
+      { "id": "c", "text": "64" },
+      { "id": "d", "text": "68" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q58",
+    "text": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": [
+      { "id": "a", "text": "Vitamin C" },
+      { "id": "b", "text": "Vitamin D" },
+      { "id": "c", "text": "Vitamin A" },
+      { "id": "d", "text": "Vitamin B12" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q59",
+    "text": "What is 36 / 9?",
+    "options": [
+      { "id": "a", "text": "3" },
+      { "id": "b", "text": "4" },
+      { "id": "c", "text": "5" },
+      { "id": "d", "text": "6" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q60",
+    "text": "What is the most abundant element in Earth's atmosphere?",
+    "options": [
+      { "id": "a", "text": "Oxygen" },
+      { "id": "b", "text": "Nitrogen" },
+      { "id": "c", "text": "Carbon Dioxide" },
+      { "id": "d", "text": "Hydrogen" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-chemistry",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q61",
+    "text": "What is log₁₀(100)?",
+    "options": [
+      { "id": "a", "text": "1" },
+      { "id": "b", "text": "2" },
+      { "id": "c", "text": "10" },
+      { "id": "d", "text": "100" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-advanced",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q62",
+    "text": "What is 19 + 23?",
+    "options": [
+      { "id": "a", "text": "40" },
+      { "id": "b", "text": "42" },
+      { "id": "c", "text": "44" },
+      { "id": "d", "text": "46" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q63",
+    "text": "Which database query language is most commonly used?",
+    "options": [
+      { "id": "a", "text": "NoSQL" },
+      { "id": "b", "text": "SQL" },
+      { "id": "c", "text": "GraphQL" },
+      { "id": "d", "text": "SPARQL" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-database",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q64",
+    "text": "What is the capital of Egypt?",
+    "options": [
+      { "id": "a", "text": "Alexandria" },
+      { "id": "b", "text": "Cairo" },
+      { "id": "c", "text": "Giza" },
+      { "id": "d", "text": "Luxor" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-africa",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q65",
+    "text": "What is 8²?",
+    "options": [
+      { "id": "a", "text": "56" },
+      { "id": "b", "text": "64" },
+      { "id": "c", "text": "72" },
+      { "id": "d", "text": "80" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q66",
+    "text": "Who invented the telephone?",
+    "options": [
+      { "id": "a", "text": "Thomas Edison" },
+      { "id": "b", "text": "Alexander Graham Bell" },
+      { "id": "c", "text": "Nikola Tesla" },
+      { "id": "d", "text": "Benjamin Franklin" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "history-inventions",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q67",
+    "text": "What is 21 * 3?",
+    "options": [
+      { "id": "a", "text": "61" },
+      { "id": "b", "text": "63" },
+      { "id": "c", "text": "65" },
+      { "id": "d", "text": "67" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q68",
+    "text": "Which gas makes up about 21% of Earth's atmosphere?",
+    "options": [
+      { "id": "a", "text": "Nitrogen" },
+      { "id": "b", "text": "Oxygen" },
+      { "id": "c", "text": "Carbon Dioxide" },
+      { "id": "d", "text": "Argon" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-chemistry",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q69",
+    "text": "What is 84 / 7?",
+    "options": [
+      { "id": "a", "text": "11" },
+      { "id": "b", "text": "12" },
+      { "id": "c", "text": "13" },
+      { "id": "d", "text": "14" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q70",
+    "text": "What does HTTP stand for?",
+    "options": [
+      { "id": "a", "text": "High Tech Transfer Protocol" },
+      { "id": "b", "text": "HyperText Transfer Protocol" },
+      { "id": "c", "text": "Home Text Transfer Protocol" },
+      { "id": "d", "text": "Hyperlink Text Transfer Protocol" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q71",
+    "text": "What is the integral of 2x?",
+    "options": [
+      { "id": "a", "text": "2" },
+      { "id": "b", "text": "x² + C" },
+      { "id": "c", "text": "2x²" },
+      { "id": "d", "text": "x + C" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-calculus",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q72",
+    "text": "What is 16 + 28?",
+    "options": [
+      { "id": "a", "text": "42" },
+      { "id": "b", "text": "44" },
+      { "id": "c", "text": "46" },
+      { "id": "d", "text": "48" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q73",
+    "text": "Which planet has the most moons?",
+    "options": [
+      { "id": "a", "text": "Jupiter" },
+      { "id": "b", "text": "Saturn" },
+      { "id": "c", "text": "Uranus" },
+      { "id": "d", "text": "Neptune" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-astronomy",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q74",
+    "text": "What is the capital of Russia?",
+    "options": [
+      { "id": "a", "text": "St. Petersburg" },
+      { "id": "b", "text": "Moscow" },
+      { "id": "c", "text": "Novosibirsk" },
+      { "id": "d", "text": "Yekaterinburg" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-europe",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q75",
+    "text": "What is 50% of 90?",
+    "options": [
+      { "id": "a", "text": "40" },
+      { "id": "b", "text": "45" },
+      { "id": "c", "text": "50" },
+      { "id": "d", "text": "55" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q76",
+    "text": "Which framework is commonly used with JavaScript for building user interfaces?",
+    "options": [
+      { "id": "a", "text": "Django" },
+      { "id": "b", "text": "React" },
+      { "id": "c", "text": "Laravel" },
+      { "id": "d", "text": "Spring" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q77",
+    "text": "What is 13 * 8?",
+    "options": [
+      { "id": "a", "text": "102" },
+      { "id": "b", "text": "104" },
+      { "id": "c", "text": "106" },
+      { "id": "d", "text": "108" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q78",
+    "text": "What is the largest bone in the human body?",
+    "options": [
+      { "id": "a", "text": "Humerus" },
+      { "id": "b", "text": "Femur" },
+      { "id": "c", "text": "Tibia" },
+      { "id": "d", "text": "Fibula" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q79",
+    "text": "What is 72 / 8?",
+    "options": [
+      { "id": "a", "text": "8" },
+      { "id": "b", "text": "9" },
+      { "id": "c", "text": "10" },
+      { "id": "d", "text": "11" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q80",
+    "text": "What is the chemical formula for water?",
+    "options": [
+      { "id": "a", "text": "H₂O₂" },
+      { "id": "b", "text": "H₂O" },
+      { "id": "c", "text": "HO₂" },
+      { "id": "d", "text": "H₃O" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-chemistry",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q81",
+    "text": "What is sin(90°)?",
+    "options": [
+      { "id": "a", "text": "0" },
+      { "id": "b", "text": "1" },
+      { "id": "c", "text": "0.5" },
+      { "id": "d", "text": "√2/2" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-trigonometry",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q82",
+    "text": "What is 22 + 18?",
+    "options": [
+      { "id": "a", "text": "38" },
+      { "id": "b", "text": "40" },
+      { "id": "c", "text": "42" },
+      { "id": "d", "text": "44" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q83",
+    "text": "Which version control system is most widely used?",
+    "options": [
+      { "id": "a", "text": "SVN" },
+      { "id": "b", "text": "Git" },
+      { "id": "c", "text": "Mercurial" },
+      { "id": "d", "text": "Bazaar" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-tools",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q84",
+    "text": "What is the capital of India?",
+    "options": [
+      { "id": "a", "text": "Mumbai" },
+      { "id": "b", "text": "New Delhi" },
+      { "id": "c", "text": "Bangalore" },
+      { "id": "d", "text": "Kolkata" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-asia",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q85",
+    "text": "What is 12²?",
+    "options": [
+      { "id": "a", "text": "124" },
+      { "id": "b", "text": "144" },
+      { "id": "c", "text": "164" },
+      { "id": "d", "text": "184" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q86",
+    "text": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      { "id": "a", "text": "J.K. Rowling" },
+      { "id": "b", "text": "Harper Lee" },
+      { "id": "c", "text": "Ernest Hemingway" },
+      { "id": "d", "text": "F. Scott Fitzgerald" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "literature-american",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q87",
+    "text": "What is 17 * 5?",
+    "options": [
+      { "id": "a", "text": "83" },
+      { "id": "b", "text": "85" },
+      { "id": "c", "text": "87" },
+      { "id": "d", "text": "89" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q88",
+    "text": "Which blood type is known as the universal donor?",
+    "options": [
+      { "id": "a", "text": "A" },
+      { "id": "b", "text": "O" },
+      { "id": "c", "text": "B" },
+      { "id": "d", "text": "AB" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q89",
+    "text": "What is 96 / 12?",
+    "options": [
+      { "id": "a", "text": "7" },
+      { "id": "b", "text": "8" },
+      { "id": "c", "text": "9" },
+      { "id": "d", "text": "10" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q90",
+    "text": "What does JSON stand for?",
+    "options": [
+      { "id": "a", "text": "Java Standard Object Notation" },
+      { "id": "b", "text": "JavaScript Object Notation" },
+      { "id": "c", "text": "Just Simple Object Notation" },
+      { "id": "d", "text": "Java Structured Object Notation" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q91",
+    "text": "What is the cube of 4?",
+    "options": [
+      { "id": "a", "text": "16" },
+      { "id": "b", "text": "64" },
+      { "id": "c", "text": "32" },
+      { "id": "d", "text": "48" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q92",
+    "text": "What is 26 + 34?",
+    "options": [
+      { "id": "a", "text": "58" },
+      { "id": "b", "text": "60" },
+      { "id": "c", "text": "62" },
+      { "id": "d", "text": "64" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q93",
+    "text": "Which continent has the most countries?",
+    "options": [
+      { "id": "a", "text": "Asia" },
+      { "id": "b", "text": "Africa" },
+      { "id": "c", "text": "Europe" },
+      { "id": "d", "text": "South America" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "geography-continents",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q94",
+    "text": "What is 14 * 7?",
+    "options": [
+      { "id": "a", "text": "96" },
+      { "id": "b", "text": "98" },
+      { "id": "c", "text": "100" },
+      { "id": "d", "text": "102" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-intermediate",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q95",
+    "text": "What is the powerhouse of the cell?",
+    "options": [
+      { "id": "a", "text": "Nucleus" },
+      { "id": "b", "text": "Mitochondria" },
+      { "id": "c", "text": "Ribosome" },
+      { "id": "d", "text": "Chloroplast" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "science-biology",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q96",
+    "text": "What is 120 / 15?",
+    "options": [
+      { "id": "a", "text": "6" },
+      { "id": "b", "text": "8" },
+      { "id": "c", "text": "10" },
+      { "id": "d", "text": "12" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q97",
+    "text": "Which HTTP status code indicates 'Not Found'?",
+    "options": [
+      { "id": "a", "text": "200" },
+      { "id": "b", "text": "404" },
+      { "id": "c", "text": "500" },
+      { "id": "d", "text": "301" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-web",
+    "difficulty": "MEDIUM"
+  },
+  {
+    "id": "q98",
+    "text": "What is the factorial of 5?",
+    "options": [
+      { "id": "a", "text": "100" },
+      { "id": "b", "text": "120" },
+      { "id": "c", "text": "125" },
+      { "id": "d", "text": "130" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-advanced",
+    "difficulty": "HARD"
+  },
+  {
+    "id": "q99",
+    "text": "What is 28 + 32?",
+    "options": [
+      { "id": "a", "text": "58" },
+      { "id": "b", "text": "60" },
+      { "id": "c", "text": "62" },
+      { "id": "d", "text": "64" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "math-basic",
+    "difficulty": "EASY"
+  },
+  {
+    "id": "q100",
+    "text": "Which data structure follows Last In, First Out (LIFO) principle?",
+    "options": [
+      { "id": "a", "text": "Queue" },
+      { "id": "b", "text": "Stack" },
+      { "id": "c", "text": "Array" },
+      { "id": "d", "text": "Linked List" }
+    ],
+    "correctOptionId": "b",
+    "learningObjectiveId": "programming-data-structures",
+    "difficulty": "MEDIUM"
+  }
+]
