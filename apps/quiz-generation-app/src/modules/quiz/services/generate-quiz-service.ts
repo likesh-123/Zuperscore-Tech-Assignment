@@ -40,10 +40,10 @@ export const generateQuiz = async (
 
     const result = await getRandomQuestions(pool, numberOfQuestions);
 
-    const quizQuestion = result.map((q) => ({
-      questionId: q.id,
-      correctAnswer: q.correctOptionId,
-    }));
+    const quizAnswers = result.reduce((acc, q) => {
+      acc[q.id] = q.correctOptionId;
+      return acc;
+    }, {});
 
     const updatedQuestions = result.map((q) => ({
       questionId: q.id,
@@ -53,7 +53,7 @@ export const generateQuiz = async (
 
     const quizId = uuidv4();
 
-    await writeData(`quiz_${quizId}`, quizQuestion);
+    writeData(`quiz_${quizId}`, quizAnswers);
 
     return res.status(200).json({
       quizId,
